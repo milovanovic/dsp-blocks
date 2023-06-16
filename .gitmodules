@@ -1,9 +1,9 @@
 [submodule "sdf-fft"]
 	path = sdf-fft
-	url = git@github.com:milovanovic/sdf-fft.git
+	url = https://github.com/milovanovic/sdf-fft.git
 [submodule "lis"]
 	path = lis
-	url = git@github.com:milovanovic/lis.git
+	url = https://github.com/milovanovic/lis.git
 [submodule "magnitude"]
 	path = magnitude
-	url = git@github.com:milovanovic/magnitude.git
+	url = https://github.com/milovanovic/magnitude.git

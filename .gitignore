@@ -1,0 +1,12 @@
+test_run_dir/
+generated-rtl/
+
+*.fir
+*.v
+*.json
+!*input_discard.json
+!*fifo_discard.json
+!*.scalafmt.conf
+
+target/
+project/

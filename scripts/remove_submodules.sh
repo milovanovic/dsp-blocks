@@ -19,7 +19,6 @@ git rm -f tools/cde/
 #git rm -f sims/firesim
 
 git restore --staged .gitmodules
-rm .gitmodules
 
 mv build.sbt build.txt
 rm project/plugins.sbt

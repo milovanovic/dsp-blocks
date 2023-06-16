@@ -9,7 +9,7 @@ This repository contains a variety of Digital Signal Processing (DSP) accelerato
  * **magnitude** - A Design Generator of Complex Number Magnitude Calculators and their Logarithms
  ## Documentation
 
-For the documentation of each design generator, check directory `name_of_the_generator/doc/images` and  `name_of_the_generator/doc/name_of_the_generator_generator.md` file.
+For the detailed documentation of each design generator, check directory `name_of_the_generator/doc/`.
 
  ## Setup
 
